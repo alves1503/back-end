@@ -1,0 +1,9 @@
+Olá, Tudo Bem ?
+
+
+
+OS códigos comentados são relacionados a quando eu terminava o exercício relacionado a matéria eu o jogava na IA e pedia para ela adicionar os comentários referentes a cada função determinada.
+
+Vale ressaltar que eu fazia o exercício sozinho primeiro e depois pedia para a IA avaliar ele e adicionar os comentários , nunca pedia para alterar o código ou para cria-lo do zero.
+
+
