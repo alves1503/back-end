@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741140521 source:c:\users\henri\onedrive\documentos\estudos de programação\back-end\logica-programacao\exercicios\linguagem c\bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
