@@ -1,50 +1,74 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include "thingProperties.h"
 
-void limpar_entrada()
-{
-    char c;
-    while ((c = getchar()) != '\n' && c != EOF) {}
+const int buttonPin = 26;   
+const int ledPin = 13;      
+const unsigned long resetInterval = 120000;  
+unsigned long lastResetTime = 0;  
+
+int buttonState = 0;           
+int previousButtonState = 0;  
+
+void setup() {
+  // Inicializa a comunicação serial
+  Serial.begin(9600);
+  while (!Serial) { ; } // Aguarda a serial
+
+  // Configura o pino do botão como entrada com pull-up interno
+  pinMode(buttonPin, INPUT_PULLUP);
+
+  // Configura o pino do LED como saída
+  pinMode(ledPin, OUTPUT);
+
+  // Inicializa as propriedades da IoT Cloud
+  initProperties();
+
+  // Conecta à Arduino IoT Cloud
+  ArduinoCloud.begin(ArduinoIoTPreferredConnection);
+
+  // Espera pela sincronização das propriedades
+  setDebugMessageLevel(2);
+  ArduinoCloud.printDebugInfo();
 }
 
-void ler_texto(char *buffer, int length)
-{
-    fgets(buffer, length, stdin);
-    strtok(buffer, "\n");
+void loop() {
+  ArduinoCloud.update(); // Atualiza a conexão com a nuvem
+
+  // Lê o estado atual do botão
+  buttonState = digitalRead(buttonPin);
+
+  // Verifica se houve mudança no estado do botão
+  if (buttonState != previousButtonState) {
+    if (buttonState == LOW) {  // Botão foi pressionado
+      buttonPressCount++; // Incrementa o contador de pressões
+      buttonPressed = true; // Sinaliza que o botão foi pressionado
+
+      // Pisca o LED indicando que o botão foi pressionado
+      digitalWrite(ledPin, HIGH);
+      delay(100); // Mantém o LED ligado por 100ms
+      digitalWrite(ledPin, LOW);
+
+      // Aguarda um intervalo de debounce
+      delay(100); 
+    } else {
+      buttonPressed = false; // Reseta o estado do botão pressionado
+    }
+  }
+
+  // Atualiza o estado anterior do botão
+  previousButtonState = buttonState;
+
+  // Verifica se é hora de realizar o reset manual do contador
+  if (millis() - lastResetTime >= resetInterval) {
+    buttonPressCount = 0; // Zera o contador de pressões
+    lastResetTime = millis(); // Atualiza o último tempo de reset
+  }
 }
 
+// Funções de callback para mudanças nas variáveis da IoT Cloud
+void onButtonPressCountChange() {
+  // Implementação para manipular mudanças na variável buttonPressCount
+}
 
-
-
-int main()
-{
-
-    char nome1[50], nome2[50];
-    int idade1, idade2;
-    double media;
-
-
-    printf("Dados da primeira pessoa: \n");
-    printf("Nome: ");
-    ler_texto(nome1,50);
-    printf("Idade: ");
-    scanf("%d", &idade1);
-
-    printf("Dados da segunda pessoa: \n");
-    limpar_entrada();
-    printf("Nome: ");
-    ler_texto(nome2,50);
-    printf("Idade: ");
-    scanf("%d", &idade2);
-
-
-    media = (double)(idade1 + idade2) / 2;
-
-    printf("A idade media de %s e %s e de %.1lf anos",nome1, nome2, media);
-
-
-
-
-    return 0;
+void onButtonPressedChange() {
+  // Implementação para manipular mudanças na variável buttonPressed
 }
