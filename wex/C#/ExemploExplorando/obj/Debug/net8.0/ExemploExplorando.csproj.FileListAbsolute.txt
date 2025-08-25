@@ -1,0 +1,15 @@
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.deps.json
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.runtimeconfig.json
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.dll
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net8.0/ExemploExplorando.pdb
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.AssemblyInfo.cs
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.sourcelink.json
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.dll
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/refint/ExemploExplorando.dll
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.pdb
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ExemploExplorando.genruntimeconfig.cache
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net8.0/ref/ExemploExplorando.dll

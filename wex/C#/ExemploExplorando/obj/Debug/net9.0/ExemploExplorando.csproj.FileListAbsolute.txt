@@ -1,0 +1,30 @@
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.deps.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.runtimeconfig.json
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.pdb
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.AssemblyInfo.cs
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/refint/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.pdb
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.genruntimeconfig.cache
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ref/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos Programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.sourcelink.json
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.deps.json
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.runtimeconfig.json
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/bin/Debug/net9.0/ExemploExplorando.pdb
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.AssemblyInfo.cs
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.sourcelink.json
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/refint/ExemploExplorando.dll
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.pdb
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ExemploExplorando.genruntimeconfig.cache
+/home/henriquealves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/obj/Debug/net9.0/ref/ExemploExplorando.dll

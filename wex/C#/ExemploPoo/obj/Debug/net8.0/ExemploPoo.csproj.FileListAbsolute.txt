@@ -1,0 +1,15 @@
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/bin/Debug/net8.0/ExemploPoo
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/bin/Debug/net8.0/ExemploPoo.deps.json
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/bin/Debug/net8.0/ExemploPoo.runtimeconfig.json
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/bin/Debug/net8.0/ExemploPoo.dll
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/bin/Debug/net8.0/ExemploPoo.pdb
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.AssemblyInfoInputs.cache
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.AssemblyInfo.cs
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.csproj.CoreCompileInputs.cache
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.sourcelink.json
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.dll
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/refint/ExemploPoo.dll
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.pdb
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ExemploPoo.genruntimeconfig.cache
+/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploPoo/obj/Debug/net8.0/ref/ExemploPoo.dll
