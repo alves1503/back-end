@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programação\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj",
+      "projectUniqueName": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programação\\back-end\\udemy\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj",
       "projectName": "ConsoleAppTopLevel",
-      "projectPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programação\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj",
+      "projectPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programação\\back-end\\udemy\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj",
       "packagesPath": "C:\\Users\\Henrique Alves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programação\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\obj\\",
+      "outputPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programação\\back-end\\udemy\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

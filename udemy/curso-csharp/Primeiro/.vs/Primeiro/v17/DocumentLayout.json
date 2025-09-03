@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\curso-csharp\\Primeiro\\",
+  "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\Primeiro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E683900-9289-4112-9348-5F1B4BB66540}|ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\curso-csharp\\primeiro\\consoleapptoplevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E683900-9289-4112-9348-5F1B4BB66540}|ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\primeiro\\consoleapptoplevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E683900-9289-4112-9348-5F1B4BB66540}|ConsoleAppTopLevel\\ConsoleAppTopLevel.csproj|solutionrelative:consoleapptoplevel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppTopLevel\\Program.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\Primeiro\\ConsoleAppTopLevel\\Program.cs",
               "RelativeToolTip": "ConsoleAppTopLevel\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
