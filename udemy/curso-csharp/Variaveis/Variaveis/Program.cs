@@ -10,26 +10,25 @@ namespace Variaveis
     {
         static void Main(string[] args)
         {
-            int inteiro = 20;
-            double real = 20.5;
-            char letra = 'a';
-            Console.WriteLine(inteiro);
-            Console.ReadKey();
-            Console.WriteLine(real);
-            Console.WriteLine(letra);
+
+            string nome1, nome2, nome3;
+
+            Console.Write("Digite o nome 1: ");
+            nome1 = Console.ReadLine();
+
+            Console.Write("Digite o nome 2: ");
+            nome2 = Console.ReadLine();
+
+            Console.Write("Digite o nome 3: ");
+            nome3 = Console.ReadLine();
 
 
-            bool verdadeiro = true; // Variavel tipo booleana
+            Console.WriteLine($"Seja bem vindo: {nome1}");
+            Console.WriteLine($"Seja bem vindo: {nome2}");
+            Console.WriteLine($"Seja bem vindo: {nome3}");
 
-            string nome = "Henrique Alves Gonçalves";
-            Console.WriteLine(nome);
 
-            var numero = 2;
-            var teste = "Ola";
-            Console.WriteLine(teste);
-            Console.WriteLine(numero);
 
-            object obj = 100;
         }
     }
 }
