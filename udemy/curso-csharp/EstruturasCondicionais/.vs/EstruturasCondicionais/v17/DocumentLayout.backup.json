@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\EstruturasCondicionais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9743A8-84B2-4FC4-9764-9C82DC2084B1}|EstruturasCondicionais\\EstruturasCondicionais.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\estruturascondicionais\\estruturascondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9743A8-84B2-4FC4-9764-9C82DC2084B1}|EstruturasCondicionais\\EstruturasCondicionais.csproj|solutionrelative:estruturascondicionais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\EstruturasCondicionais\\EstruturasCondicionais\\Program.cs",
+              "RelativeDocumentMoniker": "EstruturasCondicionais\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\EstruturasCondicionais\\EstruturasCondicionais\\Program.cs",
+              "RelativeToolTip": "EstruturasCondicionais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T00:39:54.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
