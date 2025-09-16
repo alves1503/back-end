@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesObjetos", "ClassesObjetos\ClassesObjetos.csproj", "{E86984F0-0980-4842-B890-7E4CF8D247E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDasClasses", "MetodosDasClasses\MetodosDasClasses.csproj", "{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E86984F0-0980-4842-B890-7E4CF8D247E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E86984F0-0980-4842-B890-7E4CF8D247E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E86984F0-0980-4842-B890-7E4CF8D247E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E86984F0-0980-4842-B890-7E4CF8D247E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BE5919-9723-40A5-9222-4CCCAC3AE520}
+	EndGlobalSection
+EndGlobal
