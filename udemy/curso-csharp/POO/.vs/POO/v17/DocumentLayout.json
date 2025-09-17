@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}|MetodosDasClasses\\MetodosDasClasses.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\metodosdasclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}|MetodosDasClasses\\MetodosDasClasses.csproj|solutionrelative:metodosdasclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93167512-6AF4-4EB4-816F-B6563A0708CC}|TermoThis\\TermoThis.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\termothis\\acessar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93167512-6AF4-4EB4-816F-B6563A0708CC}|TermoThis\\TermoThis.csproj|solutionrelative:termothis\\acessar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}|MetodosDasClasses\\MetodosDasClasses.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\metodosdasclasses\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E843AB19-C1AE-4DA1-819E-5BC1DB640F08}|MetodosDasClasses\\MetodosDasClasses.csproj|solutionrelative:metodosdasclasses\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93167512-6AF4-4EB4-816F-B6563A0708CC}|TermoThis\\TermoThis.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\termothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93167512-6AF4-4EB4-816F-B6563A0708CC}|TermoThis\\TermoThis.csproj|solutionrelative:termothis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Metodos.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodosDasClasses\\Metodos.cs",
-              "RelativeDocumentMoniker": "MetodosDasClasses\\Metodos.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodosDasClasses\\Metodos.cs",
-              "RelativeToolTip": "MetodosDasClasses\\Metodos.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAiwC0AAAA6AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Acessar.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TermoThis\\Acessar.cs",
+              "RelativeDocumentMoniker": "TermoThis\\Acessar.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TermoThis\\Acessar.cs",
+              "RelativeToolTip": "TermoThis\\Acessar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T05:27:11.276Z",
+              "WhenOpened": "2025-09-17T01:38:46.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodosDasClasses\\Program.cs",
-              "RelativeDocumentMoniker": "MetodosDasClasses\\Program.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodosDasClasses\\Program.cs",
-              "RelativeToolTip": "MetodosDasClasses\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TermoThis\\Program.cs",
+              "RelativeDocumentMoniker": "TermoThis\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TermoThis\\Program.cs",
+              "RelativeToolTip": "TermoThis\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-16T05:26:25.854Z",
+              "WhenOpened": "2025-09-17T01:38:08.665Z",
               "EditorCaption": ""
             }
           ]

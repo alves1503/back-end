@@ -46,5 +46,44 @@ namespace MetodosDasClasses
             Console.WriteLine($"Valor final por referencia: {valor}");
         }
 
+
+        // Metodos com retorno de valor
+        public string MontaNome(string nome, string sobrenome)
+        {
+            string nomeCompleto = nome + " " + sobrenome;
+            return nomeCompleto;
+        }
+
+        public int Soma(int x, int y)
+        {
+            return x + y;
+        }
+
+        public double ValorPi()
+        {
+            return 3.1415;
+        }
+
+
+        // Sobrecarga de metodos
+        public void Nome(string nome)
+        {
+
+            Console.WriteLine($"Ola {nome}");
+
+        }
+
+        public void Cumprimentar(string nome, int hora)
+        {
+            string mensagem = hora < 12 ? $"Bom dia {nome}" : $"Boa tarde {nome}";
+            Console.WriteLine(mensagem);
+
+        }
+
+        public bool Comparar(int num1, int num2)
+        {
+            return num1 == num2;
+        }
+
     }
 }
