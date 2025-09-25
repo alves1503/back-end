@@ -1,0 +1,7 @@
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\bin\Debug\ExerciciosFixacao.exe.config
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\bin\Debug\ExerciciosFixacao.exe
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\bin\Debug\ExerciciosFixacao.pdb
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.csproj.AssemblyReference.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.exe
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\ExerciciosFixacao\obj\Debug\ExerciciosFixacao.pdb

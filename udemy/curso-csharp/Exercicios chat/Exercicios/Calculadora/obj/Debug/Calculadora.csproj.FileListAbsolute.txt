@@ -1,0 +1,8 @@
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\Exercicios chat\Exercicios\Calculadora\obj\Debug\Calculadora.exe.config
