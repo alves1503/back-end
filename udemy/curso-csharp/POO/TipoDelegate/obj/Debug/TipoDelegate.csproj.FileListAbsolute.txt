@@ -1,0 +1,2 @@
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache

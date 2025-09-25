@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDasClasses", "Metodo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermoThis", "TermoThis\TermoThis.csproj", "{93167512-6AF4-4EB4-816F-B6563A0708CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoDelegate", "TipoDelegate\TipoDelegate.csproj", "{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{93167512-6AF4-4EB4-816F-B6563A0708CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93167512-6AF4-4EB4-816F-B6563A0708CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93167512-6AF4-4EB4-816F-B6563A0708CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
