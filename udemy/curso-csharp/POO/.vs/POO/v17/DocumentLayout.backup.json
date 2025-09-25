@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}|TipoDelegate\\TipoDelegate.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\tipodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}|TipoDelegate\\TipoDelegate.csproj|solutionrelative:tipodelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EB56079-B290-4CFC-A0CF-D33987C80C38}|MetodoConstrutor\\MetodoConstrutor.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\metodoconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB56079-B290-4CFC-A0CF-D33987C80C38}|MetodoConstrutor\\MetodoConstrutor.csproj|solutionrelative:metodoconstrutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}|TipoDelegate\\TipoDelegate.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\tipodelegate\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4514B4BB-2DCC-4106-A8B1-EB43E9E09563}|TipoDelegate\\TipoDelegate.csproj|solutionrelative:tipodelegate\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EB56079-B290-4CFC-A0CF-D33987C80C38}|MetodoConstrutor\\MetodoConstrutor.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\metodoconstrutor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB56079-B290-4CFC-A0CF-D33987C80C38}|MetodoConstrutor\\MetodoConstrutor.csproj|solutionrelative:metodoconstrutor\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Matematica.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TipoDelegate\\Matematica.cs",
-              "RelativeDocumentMoniker": "TipoDelegate\\Matematica.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TipoDelegate\\Matematica.cs",
-              "RelativeToolTip": "TipoDelegate\\Matematica.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAAJAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodoConstrutor\\Pessoa.cs",
+              "RelativeDocumentMoniker": "MetodoConstrutor\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodoConstrutor\\Pessoa.cs",
+              "RelativeToolTip": "MetodoConstrutor\\Pessoa.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:43:06.887Z",
+              "WhenOpened": "2025-09-25T00:13:36.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TipoDelegate\\Program.cs",
-              "RelativeDocumentMoniker": "TipoDelegate\\Program.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\TipoDelegate\\Program.cs",
-              "RelativeToolTip": "TipoDelegate\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodoConstrutor\\Program.cs",
+              "RelativeDocumentMoniker": "MetodoConstrutor\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\MetodoConstrutor\\Program.cs",
+              "RelativeToolTip": "MetodoConstrutor\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T06:42:10.708Z",
+              "WhenOpened": "2025-09-25T00:12:51.205Z",
               "EditorCaption": ""
             }
           ]
