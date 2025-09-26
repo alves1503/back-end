@@ -1,0 +1,7 @@
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\Propriedades\obj\Debug\Propriedades.pdb
