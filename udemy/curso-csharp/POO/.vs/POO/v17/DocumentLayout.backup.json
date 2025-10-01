@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D590D2B-00A1-464D-B1BF-1709A554B990}|Propriedades\\Propriedades.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D590D2B-00A1-464D-B1BF-1709A554B990}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|solutionrelative:heranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D590D2B-00A1-464D-B1BF-1709A554B990}|Propriedades\\Propriedades.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\propriedades\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D590D2B-00A1-464D-B1BF-1709A554B990}|Propriedades\\Propriedades.csproj|solutionrelative:propriedades\\teste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|solutionrelative:heranca\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E35529A-8864-441E-8AE3-9AD00E5C180E}|Estatico\\Estatico.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\estatico\\pessoaatributo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E35529A-8864-441E-8AE3-9AD00E5C180E}|Estatico\\Estatico.csproj|solutionrelative:estatico\\pessoaatributo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|solutionrelative:heranca\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|c:\\users\\henrique alves\\documents\\estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\poo\\heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E5F810-BB5A-4350-B2A9-D030DB03D9E0}|Heranca\\Heranca.csproj|solutionrelative:heranca\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PessoaAtributo.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Estatico\\PessoaAtributo.cs",
-              "RelativeDocumentMoniker": "Estatico\\PessoaAtributo.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Estatico\\PessoaAtributo.cs",
-              "RelativeToolTip": "Estatico\\PessoaAtributo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Heranca\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Veiculo.cs*",
+              "RelativeToolTip": "Heranca\\Veiculo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T03:19:37.205Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Teste.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Propriedades\\Teste.cs",
-              "RelativeDocumentMoniker": "Propriedades\\Teste.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Propriedades\\Teste.cs*",
-              "RelativeToolTip": "Propriedades\\Teste.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T03:43:32.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Propriedades\\Program.cs",
-              "RelativeDocumentMoniker": "Propriedades\\Program.cs",
-              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Propriedades\\Program.cs*",
-              "RelativeToolTip": "Propriedades\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T03:43:08.223Z",
+              "WhenOpened": "2025-10-01T01:12:00.591Z",
               "EditorCaption": ""
             },
             {
@@ -71,6 +48,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Carro.cs",
+              "RelativeDocumentMoniker": "Heranca\\Carro.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Carro.cs*",
+              "RelativeToolTip": "Heranca\\Carro.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:04:23.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "Heranca\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Bicicleta.cs*",
+              "RelativeToolTip": "Heranca\\Bicicleta.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:09:14.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Program.cs",
+              "RelativeDocumentMoniker": "Heranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Henrique Alves\\Documents\\Estudos de programa\u00E7\u00E3o\\back-end\\udemy\\curso-csharp\\POO\\Heranca\\Program.cs*",
+              "RelativeToolTip": "Heranca\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:03:04.025Z",
+              "EditorCaption": ""
             }
           ]
         }
