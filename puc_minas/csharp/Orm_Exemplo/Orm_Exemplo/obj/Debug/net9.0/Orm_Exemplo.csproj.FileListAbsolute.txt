@@ -1,0 +1,6 @@
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\puc_minas\csharp\Orm_Exemplo\Orm_Exemplo\obj\Debug\net9.0\Orm_Exemplo.csproj.AssemblyReference.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\puc_minas\csharp\Orm_Exemplo\Orm_Exemplo\obj\Debug\net9.0\Orm_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\puc_minas\csharp\Orm_Exemplo\Orm_Exemplo\obj\Debug\net9.0\Orm_Exemplo.AssemblyInfoInputs.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\puc_minas\csharp\Orm_Exemplo\Orm_Exemplo\obj\Debug\net9.0\Orm_Exemplo.AssemblyInfo.cs
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\puc_minas\csharp\Orm_Exemplo\Orm_Exemplo\obj\Debug\net9.0\Orm_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Alves\Documents\Estudos de programação\back-end\puc_minas\csharp\Orm_Exemplo\Orm_Exemplo\obj\Debug\net9.0\Orm_Exemplo.sourcelink.json
