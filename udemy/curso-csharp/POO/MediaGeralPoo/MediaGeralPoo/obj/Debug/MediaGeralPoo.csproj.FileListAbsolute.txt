@@ -1,0 +1,7 @@
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\obj\Debug\MediaGeralPoo.csproj.AssemblyReference.cache
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\obj\Debug\MediaGeralPoo.csproj.CoreCompileInputs.cache
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\bin\Debug\MediaGeralPoo.exe.config
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\bin\Debug\MediaGeralPoo.exe
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\bin\Debug\MediaGeralPoo.pdb
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\obj\Debug\MediaGeralPoo.exe
+C:\Users\Alves\Documents\Estudos de programação\back-end\udemy\curso-csharp\POO\MediaGeralPoo\MediaGeralPoo\obj\Debug\MediaGeralPoo.pdb
