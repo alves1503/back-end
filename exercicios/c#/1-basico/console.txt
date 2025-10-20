@@ -1,0 +1,10 @@
+🔹 C# – Console
+
+Objetivo: treinar variáveis, entrada/saída, condicionais e laços.
+
+Exercício 1 – Olá, Mundo Personalizado
+
+Peça o nome do usuário pelo console.
+
+Mostre:
+Olá, [nome]! Seja bem-vindo ao treino de lógica.

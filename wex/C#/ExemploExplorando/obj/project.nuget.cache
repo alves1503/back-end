@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NfK1j4Opur89KznfrfVxdim4J2Rr/EFj5RCKtEZYU9eN0aLXo5XnFGAum4o6VQ5pvNEG2yXmpCR9OuLbV0BMg==",
+  "dgSpecHash": "WEvmyoEcR4Pran9fS5r8/2tdeWf4X/gZID9Mtc6ZDbOyBLGK/eKq6JkhK5b0G4j6MtmOFdqnmecF2M4+cb+EXA==",
   "success": true,
-  "projectFilePath": "/home/henrique-alves/Documentos/Estudos de programação/WEX---End-to-End-Engineering/ExemploExplorando/ExemploExplorando.csproj",
+  "projectFilePath": "/home/henrique-alves/Documentos/Estudos de programação/back-end/wex/C#/ExemploExplorando/ExemploExplorando.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

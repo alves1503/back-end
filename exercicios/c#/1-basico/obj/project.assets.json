@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/henrique-alves/Documentos/Estudos de programação/back-end/wex/C#/ExemploExplorando/ExemploExplorando.csproj",
-      "projectName": "ExemploExplorando",
-      "projectPath": "/home/henrique-alves/Documentos/Estudos de programação/back-end/wex/C#/ExemploExplorando/ExemploExplorando.csproj",
+      "projectUniqueName": "/home/henrique-alves/Documentos/Estudos de programação/back-end/exercicios/c#/1-basico/1-basico.csproj",
+      "projectName": "1-basico",
+      "projectPath": "/home/henrique-alves/Documentos/Estudos de programação/back-end/exercicios/c#/1-basico/1-basico.csproj",
       "packagesPath": "/home/henrique-alves/.nuget/packages/",
-      "outputPath": "/home/henrique-alves/Documentos/Estudos de programação/back-end/wex/C#/ExemploExplorando/obj/",
+      "outputPath": "/home/henrique-alves/Documentos/Estudos de programação/back-end/exercicios/c#/1-basico/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/henrique-alves/.nuget/NuGet/NuGet.Config"
