@@ -13,7 +13,7 @@ public class App {
 
         System.out.print("Qual seu nome? ");
         nome = sc.nextLine();
-        \
+
         System.out.println();
 
         System.out.print("Qual sua idade? ");
