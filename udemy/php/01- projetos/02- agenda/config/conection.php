@@ -1,0 +1,19 @@
+<?php
+
+$host = "localhost";
+$dbname = "agenda";
+$user = "alves";
+$pass = "1503";
+
+
+try {
+
+    $conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
+
+    // Ativar o modo de erros
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+} catch (PDOException $e) {
+    //Erro de conexão
+    $error = $e->getMessage();
+    echo "Erro: $error";
+}
